@@ -48,7 +48,7 @@
 	</dependencies>
 
 	<build>
-
+		<pluginManagement>
 		<plugins>
 			<plugin>
 				<groupId>com.sun.xml.ws</groupId>
@@ -121,5 +121,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		</pluginManagement>
 	</build>
 </project>
